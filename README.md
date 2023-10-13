@@ -1,3 +1,16 @@
+# Github
+Github ist eine webbasierte Versionsverwaltung für Software-Entwicklungsprojekte. Auf Github ist es möglich gemeinsam als Team an Softwareprojekten zu arbeiten und den Code als auch Änderungen und Beiträge des Projektes online zu speichnern.
+Es ist eine Art "virtueller Arbeitsplatz" für EntwicklerInnen.
+
+## Issues und Tasks
+In GitHub dienen Issues dazu, Aufgaben, Verbesserungen und Fehler zu identifizieren und zu verfolgen. Innerhalb eines Issues können spezifische Aufgaben, auch als Tasks bezeichnet, erstellt werden, um ein Issue in handhabbare Teilaufgaben aufzuteilen. Dies erleichtert die Organisation und Zuweisung von Verantwortlichkeiten. Das bedeutet, dass ein Issue, beispielsweise eine komplexe Funktion, in kleinere, leichter handhabbare Schritte unterteilt werden kann, die einzelnen Teammitgliedern zugeordnet werden können. Man kann Aufgaben (Tasks) in einem Issue-Text erstellen, indem du eine Checkbox wie - [ ] hinzufügst. Wenn eine Aufgabe erledigt ist, kann die Checkbox abgehackt werden.
+
+## Sprints
+
+Zusätzlich zur Aufgabenaufteilung kann die Arbeit in GitHub in Sprints organisiert werden. Sprints sind zeitlich begrenzte Arbeitszyklen, die normalerweise zwischen 1 und 4 Wochen dauern. Während eines Sprints konzentriert sich das Team auf die Bearbeitung einer vordefinierten Menge von Aufgaben, die zuvor in Issues und Tasks strukturiert wurden. Diese Aufgaben können in Meilensteine eingebunden sein, die spezifische Ziele oder Zustände darstellen und den Fortschritt des Projekts messbar machen.
+
+Sprints dienen dazu, die Arbeit in überschaubare Einheiten aufzuteilen und den Fortschritt in klar definierten Zeiträumen zu überwachen. Nach jedem Sprint gibt es oft eine Überprüfung und Reflexion, in der das Team den erreichten Fortschritt bewertet und gegebenenfalls Anpassungen vornimmt. Somit kann das Projekt kontinuierlich verbessert werden.
+
 
 # Clockify - Zeiterfassung und Projektverwaltung
 
